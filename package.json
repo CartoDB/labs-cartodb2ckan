@@ -1,0 +1,17 @@
+{
+  "name": "cartodb2ckan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+    "request": "^2.67.0",
+    "open": "^0.0.5",
+    "mustache": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
